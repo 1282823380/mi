@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+li{
+	/*float: left;*/
+	/*display: inline;*/
+	border: 1px solid #fbdde1;
+
+}
+
+.li{
+	float: right;
+}
+
+div{
+	/*float: left;*/
+	width: 30px;
+	height: 20px;
+	display: inline-block;
+	background-color: #fbdde1;
+}
+
+.div2{
+	float: left;
+	background-color: #c7f5ab;
+}
+
+.div1{
+	float: none;
+	background-color: #e5fbf4;
+}
